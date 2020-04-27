@@ -1,2 +1,4 @@
-hello-ignore.txt
-secret-files
+/hello-ignore.txt
+/secret-files
+/hello/secret-files/*
+!/hello/secret-files/secrets-example.txt
