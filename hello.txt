@@ -1,4 +1,4 @@
 Hello world, and hello again!
-And hello once more.
+And hello from Bob.
 Hello from Bob.
 Hello from Bob again.
